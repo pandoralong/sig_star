@@ -1,0 +1,3 @@
+./configure --host=arm CROSS_COMPILE=arm-buildroot-linux-uclibcgnueabi- CC=arm-buildroot-linux-uclibcgnueabi-gcc CXX=arm-buildroot-linux-uclibcgnueabi-g++
+
+make ARCH=arm CROSS_COMPILE=arm-buildroot-linux-uclibcgnueabi- CC=arm-buildroot-linux-uclibcgnueabi-gcc CXX=arm-buildroot-linux-uclibcgnueabi-g++
